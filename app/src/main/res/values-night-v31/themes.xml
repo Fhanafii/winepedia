@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Winepedia" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:windowSplashScreenBackground">@color/your_splash_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/winepedia</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/your_icon_background
+        </item>
+    </style>
+    <style name="ToolBar" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#5E1228</item> <!-- Action bar color for dark mode -->
+    </style>
+</resources>

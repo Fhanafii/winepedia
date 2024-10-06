@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.Winepedia" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#5E1228</item>
+        <item name="android:windowSplashScreenBackground">@color/your_splash_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/winepedia</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/your_icon_background
+        </item>
+    </style>
+    <!-- ToolBar Warna -->
+    <style name="ToolBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#5E1228</item> <!-- Set your desired action bar color -->
+    </style>
+</resources>

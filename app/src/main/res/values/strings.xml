@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Winepedia</string>
+    <string name="detail_name">Detail Wine</string>
+    <string name="about_name">Tentang Saya</string>
+    <string name="wines_name">Nama Wine</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="name">Fahmi Hanafi</string>
+    <string name="email">a288b4ky1347@bangkit.academy</string>
+    <string name="score">Score</string>
+    <string name="num">xx</string>
+    <string name="num_case">xxxxx</string>
+    <string name="num_price">Rp.xxxxxxx</string>
+    <string name="price">Price</string>
+    <string name="imported">Case Made</string>
+
+    <string-array name="data_made">
+        <item>3,504</item>
+        <item>4,000</item>
+        <item>20,000</item>
+        <item>2,075</item>
+        <item>833</item>
+        <item>3,750</item>
+        <item>5,000</item>
+        <item>12,404</item>
+        <item>10,870</item>
+        <item>10,000</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp.1370632</item>
+        <item>Rp.989348</item>
+        <item>Rp.2085242</item>
+        <item>Rp.1065452</item>
+        <item>Rp.1111114</item>
+        <item>Rp.2663631</item>
+        <item>Rp.761037</item>
+        <item>Rp.2511423</item>
+        <item>Rp.608830</item>
+        <item>Rp.350077</item>
+    </string-array>
+    
+    <string-array name="data_score">
+        <item>95</item>
+        <item>94</item>
+        <item>96</item>
+        <item>95</item>
+        <item>95</item>
+        <item>96</item>
+        <item>95</item>
+        <item>97</item>
+        <item>94</item>
+        <item>95</item>
+    </string-array>
+
+    <string-array name="data_name">
+        <item>Argiano Brunello di Montalcino 2018</item>
+        <item>Occidental Pinot Noir West Sonoma Coast Freestone-Occidental 2021 </item>
+        <item>Château Lynch Bages Pauillac 2020</item>
+        <item>RAEN Pinot Noir Sonoma Coast Royal St. Robert Cuvée 2021</item>
+        <item>Mastroberardino Taurasi Radici Riserva 2016</item>
+        <item>Dunn Cabernet Sauvignon Howell Mountain 2019</item>
+        <item>Antinori Chianti Classico Marchese Antinori Riserva 2019</item>
+        <item>Château Pichon Baron Pauillac 2020</item>
+        <item>Résonance Pinot Noir Willamette Valley 2021</item>
+        <item>Greywacke Sauvignon Blanc Marlborough 2022</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rasakan esensi Tuscany dengan Brunello di Montalcino 2018 dari Argiano. Anggur istimewa ini menampilkan anggur Sangiovese yang luar biasa, yang bersumber dari kebun anggur Montalcino yang disinari matahari. Vintage 2018 dibuka dengan buket ceri matang, plum, dan sedikit herba kering yang menarik. Saat Anda menyesapnya, lapisan buah berwarna gelap terungkap, dilengkapi dengan aroma kulit, tembakau, dan sedikit vanilla dari penuaan kayu ek. Langit-langitnya terstruktur dengan indah, dengan tanin yang terintegrasi dengan baik dan keasaman menyegarkan yang memberikan keanggunan dan keseimbangan. Brunello ini sangat cocok dipadukan dengan hidangan lezat seperti osso buco, domba panggang, atau keju tua, menjadikannya teman yang sempurna untuk makan malam yang meriah atau malam yang nyaman. Dengan kedalaman dan kerumitannya yang luar biasa, anggur ini memiliki potensi penuaan yang besar, memungkinkannya untuk berkembang dan mengungkap nuansa baru selama dekade berikutnya atau lebih. Argiano Brunello di Montalcino 2018 adalah bukti keahlian salah satu kilang anggur terkemuka di Tuscany, yang menangkap semangat kawasan ini di setiap gelasnya. Ideal untuk kolektor dan penggemar santai, anggur ini menjanjikan pengalaman tak terlupakan yang mencerminkan kekayaan warisan Brunello di Montalcino. </item>
+        <item>Temukan keanggunan menawan Pinot Noir 2021 Occidental dari Pantai Sonoma Barat. Vintage ini mewujudkan terroir unik di kawasan ini, menampilkan perawatan dan keahlian yang cermat dari tim Occidental. Freestone-Occidental Pinot Noir 2021 dibuka dengan buket buah beri merah segar yang mempesona—seperti stroberi dan ceri matang—dilengkapi dengan aroma bunga dan sentuhan bersahaja. Di langit-langit mulut, ia memperlihatkan lapisan kerumitan, dengan rasa cranberry, plum, dan rempah-rempah halus yang dipadukan dengan sentuhan lembut jamur dan lantai hutan. Tekstur anggur yang halus dan keasaman yang tinggi menciptakan keseimbangan yang harmonis, menghasilkan hasil akhir yang panjang dan anggun. Pinot Noir serbaguna ini berpadu indah dengan beragam hidangan, mulai dari bebek panggang dan salmon panggang hingga risotto jamur atau papan charcuterie, menyempurnakan pengalaman bersantap dengan karakternya yang halus. Dengan keasamannya yang tinggi dan tanin yang terintegrasi dengan baik, anggur ini dapat dinikmati sekarang atau disimpan selama beberapa tahun, sehingga memungkinkannya mengembangkan nuansa dan kedalaman lebih jauh. Occidental Pinot Noir West Sonoma Coast Freestone-Occidental 2021 adalah representasi menakjubkan dari wilayahnya, memadukan keanggunan dengan kompleksitas. Sempurna untuk acara khusus dan pertemuan intim, anggur ini mengundang Anda untuk menikmati seni pembuatan anggur beriklim sejuk California.</item>
+        <item>Manjakan diri dalam kemegahan Château Lynch-Bages dengan barang antik tahun 2020 yang luar biasa dari Pauillac, ciri khas tepi kiri Bordeaux yang terhormat. Terkenal karena kekayaan warisan dan kualitasnya, anggur ini menunjukkan keanggunan dan kedalaman karakteristik kawasan bergengsinya. Lynch-Bages 2020 dibuka dengan buket blackcurrant, plum matang, dan selai blackberry yang memikat, ditambah dengan aroma cedar, tembakau, dan sedikit grafit yang memikat. Di langit-langit mulut, ia menampilkan kedalaman dan struktur yang luar biasa, dengan tanin lembut yang mengandung inti rasa buah gelap yang kaya, dengan aksen vanilla dan rempah-rempah dari penuaan kayu ek. Keasaman anggur yang tinggi menambah kesegaran, menghasilkan hasil akhir yang kompleks dan bertahan lama yang menjanjikan evolusi lebih lanjut di dalam botol. Anggur luar biasa ini dipadukan dengan indah dengan hidangan lezat seperti ribeye panggang, betis domba, atau risotto jamur yang kaya rasa. Ini juga merupakan pendamping yang sempurna untuk keju tua, meningkatkan cita rasa anggur dan makanan. Dengan struktur dan konsentrasinya yang mengesankan, produk vintage tahun 2020 memiliki potensi penuaan yang sangat baik, sehingga memungkinkannya untuk mengembangkan kompleksitas yang lebih besar selama dua dekade mendatang dan seterusnya. Château Lynch-Bages Pauillac 2020 adalah ekspresi terroir dan tradisi yang luar biasa, yang mewujudkan esensi Bordeaux. Baik dinikmati sekarang atau disimpan untuk dinikmati di masa mendatang, wine ini menjanjikan pengalaman tak terlupakan bagi para kolektor dan peminatnya.</item>
+        <item>Benamkan diri Anda dalam daya tarik mempesona Royal St. Robert Cuvée 2021 dari RAEN, sebuah ekspresi luar biasa dari terroir Pantai Sonoma. Dibuat oleh saudara kandung terkenal, Carlo dan Dante, Pinot Noir ini mencerminkan komitmen mereka terhadap pembuatan anggur berkelanjutan dan rasa hormat mereka yang mendalam terhadap tanah. Vintage tahun 2021 menyambut Anda dengan buket stroberi liar, raspberry, dan kelopak mawar yang harum, dipadukan dengan aroma herba yang dihancurkan dan sedikit mineralitas. Di langit-langit mulut, ia memperlihatkan permadani rasa buah merah yang cerah, dengan aksen rempah-rempah yang lembut dan warna dasar yang bersahaja. Tanin anggur yang halus dan tingkat keasaman yang cerah menciptakan struktur yang elegan, menghasilkan hasil akhir yang anggun dan bertahan lama yang menampilkan kemahiran dan kompleksitas anggur. Pinot Noir serbaguna ini berpadu indah dengan berbagai hidangan, termasuk ayam panggang, salmon panggang, atau risotto jamur liar. Ini juga melengkapi papan charcuterie, meningkatkan pengalaman keju artisanal dan daging yang diawetkan. Dengan keseimbangan dan kedalamannya, Royal St. Robert Cuvée kini dapat dinikmati, namun juga berpotensi berkembang dengan indah dalam lima hingga tujuh tahun ke depan, mengungkap lapisan rasa yang lebih dalam. RAEN Pinot Noir Sonoma Coast Royal St. Robert Cuvée 2021 adalah bukti menakjubkan seni pembuatan anggur California. Sempurna untuk acara khusus dan pertemuan santai, anggur ini mengundang Anda untuk menikmati karakter unik Pantai Sonoma, menjadikan setiap tegukan sebagai perayaan warisan dinamis kawasan ini.</item>
+        <item>Rasakan kekayaan warisan Campania dengan Taurasi Radici Riserva 2016 dari Mastroberardino, ekspresi terkenal dari anggur Aglianico yang melambangkan esensi kawasan penghasil anggur bersejarah ini. Dikenal karena kedalaman dan kerumitannya, Riserva ini merupakan bukti dedikasi Mastroberardino dalam melestarikan tradisi pembuatan anggur Italia. Vintage tahun 2016 disajikan dengan buket aromatik ceri gelap, blackberry, dan plum, ditambah dengan sedikit herba kering, kulit, dan kayu ek panggang. Di langit-langit mulut, produk ini memperlihatkan struktur yang utuh, dengan tanin lembut yang mendukung cita rasa buah hitam matang dan warna dasar tanah. Keasaman anggur yang menyegarkan menambah keseimbangan, menghasilkan hasil akhir yang panjang dan canggih dengan aroma rempah dan mineralitas yang halus. Anggur yang luar biasa ini dipadukan dengan indah dengan hidangan kuat seperti daging domba rebus, daging panggang, atau hidangan pasta lezat yang dilengkapi dengan saus yang kaya. Ini juga melengkapi keju tua, meningkatkan pengalaman bersantap secara keseluruhan. Dengan kedalaman dan strukturnya yang mengesankan, Radici Riserva memiliki potensi penuaan yang sangat baik, sehingga memungkinkannya untuk mengembangkan kompleksitas lebih lanjut dalam dekade berikutnya dan seterusnya. Mastroberardino Taurasi Radici Riserva 2016 adalah pertunjukan Aglianico yang luar biasa, mencerminkan terroir dan tradisi Campania. Sempurna untuk kolektor dan penggemar, anggur ini menawarkan perjalanan melalui sejarah dan budaya pembuatan anggur Italia di setiap tegukannya.</item>
+        <item>Temukan karakter luar biasa dari Dunn’s Cabernet Sauvignon dari Howell Mountain dengan vintage 2019, sebuah perwujudan menakjubkan dari terroir khas Lembah Napa. Dikenal karena kedalaman dan profilnya yang sesuai dengan usia, anggur ini mencerminkan keahlian yang cermat dan komitmen terhadap kualitas yang membuat Kebun Anggur Dunn terkenal. Vintage tahun 2019 dibuka dengan buket buah-buahan berwarna gelap yang menarik—blackberry, cassis, dan plum matang—ditambah dengan sentuhan tembakau, coklat, dan cedar. Di langit-langit mulut, ia memperlihatkan struktur penuh dengan tanin beludru yang memberikan tulang punggung yang kuat. Rasa dark cherry dan blackcurrant dilengkapi dengan aroma grafit dan bumbu kue, menghasilkan hasil akhir yang panjang dan kuat dengan sentuhan mineralitas. Cabernet Sauvignon ini berpadu indah dengan hidangan kaya seperti iga panggang, iga pendek yang direbus, atau risotto jamur yang lezat. Ini juga melengkapi keju tua, menjadikannya pilihan sempurna untuk pesta makan malam yang elegan. Dengan struktur dan kompleksitasnya yang mengesankan, Howell Mountain Cabernet Sauvignon 2019 memiliki potensi penuaan yang sangat baik, memungkinkannya untuk mengembangkan nuansa lebih lanjut selama dekade berikutnya atau lebih. Dunn Cabernet Sauvignon Howell Mountain 2019 adalah ekspresi luar biasa dari terroir unik Lembah Napa, yang menawarkan pengalaman mencicipi yang canggih dan berkesan. Ideal bagi kolektor dan penggemar anggur, anggur ini mengundang Anda untuk menikmati warisan kaya dari salah satu produsen paling terkemuka di California.</item>
+        <item>Rasakan keanggunan Tuscany yang tak lekang oleh waktu dengan Antinori Chianti Classico Marchese Antinori Riserva 2020. Anggur terhormat ini mencerminkan warisan pembuatan anggur keluarga Antinori yang mengakar dan komitmen mereka untuk menciptakan Chianti yang luar biasa. Riserva 2020 dibuka dengan buket ceri matang, plum merah, dan bunga violet yang harum, dilengkapi dengan aroma rempah-rempah, kulit, dan sedikit mineralitas yang bersahaja. Di langit-langit mulut, ia menampilkan tubuh yang terstruktur dengan baik dengan tanin lembut dan keasaman yang menyegarkan, memungkinkan rasa beri hitam dan kayu ek halus terpancar. Puncak anggurnya adalah hasil akhir yang panjang dan elegan, ditandai dengan lapisan kerumitan dan kemahiran. Chianti Classico ini berpadu indah dengan hidangan tradisional Tuscan seperti pasta dengan ragu, daging panggang, dan keju pecorino tua. Keserbagunaannya menjadikannya pasangan sempurna untuk santapan santai dan pengalaman bersantap yang lebih mewah. Dengan struktur dan kedalamannya yang seimbang, Marchese Antinori Riserva memiliki potensi penuaan yang besar, dan menjanjikan untuk berkembang dan menjadi semakin kompleks dalam beberapa tahun ke depan. Antinori Chianti Classico Marchese Antinori Riserva 2020 adalah representasi menakjubkan dari wilayah Chianti Classico, mengundang Anda untuk menikmati kekayaan tradisi dan terroir Tuscany. Baik dinikmati sekarang atau disimpan untuk dinikmati di masa depan, anggur ini adalah bukti nyata seni pembuatan anggur Italia.</item>
+        <item>Temukan keanggunan indah Château Pichon Baron dengan barang antik tahun 2020 yang luar biasa dari Pauillac. Terkenal karena sejarahnya yang bertingkat dan kualitasnya yang luar biasa, anggur ini adalah bukti nyata keahlian salah satu perkebunan paling terkenal di Bordeaux. Pichon Baron 2020 dibuka dengan buket buah-buahan berwarna gelap yang memikat, menampilkan aroma blackcurrant, plum matang, dan ceri, dijalin dengan sedikit grafit, cedar, dan sentuhan rempah-rempah. Di langit-langit mulut, ia menghadirkan struktur penuh, menampilkan tanin lembut dan keasaman terintegrasi yang indah yang mendukung rangkaian rasa yang kompleks. Lapisan coklat hitam, kopi panggang, dan warna dasar bunga yang halus menghasilkan hasil akhir yang tahan lama, menonjolkan kedalaman dan kehalusan anggur. Bordeaux yang luar biasa ini berpadu indah dengan hidangan kaya seperti daging sapi Wellington, betis domba, atau risotto jamur gourmet. Ini juga melengkapi keju tua, meningkatkan pengalaman bersantap secara keseluruhan. Dengan struktur dan konsentrasinya yang luar biasa, Château Pichon Baron 2020 memiliki potensi penuaan yang sangat baik, memungkinkannya berkembang dengan baik selama 15-20 tahun ke depan dan seterusnya. Château Pichon Baron Pauillac 2020 adalah representasi hebat dari kekayaan terroir dan tradisi Bordeaux. Sempurna untuk kolektor dan penggemar, anggur ini menjanjikan pengalaman mencicipi yang canggih dan berkesan, menangkap esensi dari salah satu perkebunan terbaik di kawasan ini.</item>
+        <item>Rasakan pesona Lembah Willamette Oregon yang menawan dengan Résonance Pinot Noir 2021, anggur yang dibuat dengan indah yang mewujudkan keanggunan dan kompleksitas wilayah terkenal ini. Bersumber dari kebun anggur yang dirawat dengan cermat, Pinot Noir ini mencerminkan keseimbangan harmonis antara ekspresi buah dan terroir. Vintage tahun 2021 menyambut Anda dengan karangan bunga ceri merah matang, raspberry, dan stroberi liar yang memikat, dilengkapi dengan aroma bunga yang lembut dan sedikit kesan bersahaja. Di langit-langit mulut, ia memperlihatkan profil yang cerah dengan lapisan buah merah yang berair, bumbu halus, dan sentuhan mineralitas. Tanin anggur yang halus dan keasaman yang menyegarkan menciptakan hasil akhir yang halus dan bertahan lama sehingga mengundang Anda kembali untuk menyesap lagi. Pinot Noir serbaguna ini berpadu indah dengan berbagai hidangan, seperti bebek panggang, salmon panggang, atau risotto jamur liar. Hidangan ini juga melengkapi hidangan ringan seperti ayam berkulit herba atau papan charcuterie, menjadikannya pilihan ideal untuk acara bersantap santai dan elegan. Dengan tingkat keasaman yang cerah dan profil yang terstruktur dengan baik, Résonance Pinot Noir 2021 dapat dinikmati sekarang atau disimpan dengan anggun selama lima hingga tujuh tahun ke depan, sehingga semakin kompleks seiring berjalannya waktu. Résonance Pinot Noir Willamette Valley 2021 adalah ekspresi menyenangkan dari kehebatan pembuatan anggur Oregon, menawarkan pengalaman mencicipi yang mewah dan berkesan. Sempurna untuk pecinta Pinot Noir dan mereka yang baru mengenal varietas ini, anggur ini menangkap esensi lingkungan subur di setiap gelasnya.</item>
+        <item>Manjakan diri dengan karakter dinamis Greywacke Sauvignon Blanc 2022, ekspresi menonjol dari kawasan Marlborough yang ikonik di Selandia Baru. Dibuat oleh pembuat anggur terkenal Kevin Judd, anggur ini menampilkan kualitas dan terroir luar biasa yang membuat Marlborough terkenal. Vintage tahun 2022 ini penuh dengan aroma jeruk nipis segar, markisa, dan jeruk bali, dilengkapi dengan aroma herbal dan sedikit paprika hijau. Di langit-langit mulut, ia memberikan rasa asam zesty yang berimbang indah dengan rasa buah-buahan tropis yang matang dan sentuhan mineralitas. Hasil akhir anggur yang renyah dan menyegarkan menyegarkan dan bertahan lama, menjadikannya kenikmatan mutlak. Sauvignon Blanc ini sangat cocok dipadukan dengan berbagai hidangan, termasuk makanan laut segar, asparagus panggang, atau salad keju kambing yang lezat. Ini juga bersinar bersama masakan yang terinspirasi Asia, seperti sushi atau masakan Thailand, meningkatkan cita rasa makanan. Meskipun anggur ini paling baik dinikmati saat muda untuk menghargai kesegarannya, anggur ini juga dapat menua dengan baik selama beberapa tahun, memungkinkan nuansa yang lebih dalam berkembang. Greywacke Sauvignon Blanc Marlborough 2022 adalah representasi klasik dari budaya anggur Selandia Baru yang dinamis, menawarkan pengalaman yang hidup dan menyegarkan di setiap tegukan. Sempurna untuk pertemuan musim panas atau malam yang nyaman, anggur ini mengundang Anda untuk menikmati cita rasa cerah dan kualitas menakjubkan yang ditawarkan Marlborough.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/argiano</item>
+        <item>@drawable/occidental_pinot_noir</item>
+        <item>@drawable/chateau_lynch</item>
+        <item>@drawable/raen_sonoma</item>
+        <item>@drawable/mastro_berardino</item>
+        <item>@drawable/dunn_vineyard</item>
+        <item>@drawable/marchese_antinori</item>
+        <item>@drawable/chateu_pichon</item>
+        <item>@drawable/resonance</item>
+        <item>@drawable/greywacke</item>
+    </integer-array>
+
+</resources>
