@@ -82,13 +82,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun showRecyclerList(){
         rvWines.layoutManager = LinearLayoutManager(this)
-        val ListWineAdapter = ListWineAdapter(list)
-        rvWines.adapter = ListWineAdapter
+        val recyclerWineAdapter = RecyclerWineAdapter(list)
+        rvWines.adapter = recyclerWineAdapter
 
-        ListWineAdapter.setOnClickCallback(object: ListWineAdapter.OnItemClickCallback{
+        recyclerWineAdapter.setOnClickCallback(object : RecyclerWineAdapter.OnItemClickCallback {
             override fun onItemClicked(data: Wine) {
                 showSelectedWine(data)
-                // change
+                // Navigate to DetailActivity
                 val intent = Intent(this@MainActivity, DetailActivity::class.java).apply {
                     putExtra(DetailActivity.Key_wine, data) // Use the constant defined in DetailActivity
                 }

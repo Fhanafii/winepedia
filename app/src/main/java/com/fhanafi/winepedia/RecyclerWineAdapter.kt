@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.fhanafi.winepedia.databinding.ItemRowWineBinding
 
-class ListWineAdapter(private val listWine: ArrayList<Wine>) : RecyclerView.Adapter<ListWineAdapter.ListViewHolder>(){
+class RecyclerWineAdapter(private val listWine: ArrayList<Wine>) : RecyclerView.Adapter<RecyclerWineAdapter.ListViewHolder>() {
     private lateinit var onItemClickCallback: OnItemClickCallback
 
     fun setOnClickCallback(onItemClickCallback: OnItemClickCallback) {
@@ -22,7 +22,9 @@ class ListWineAdapter(private val listWine: ArrayList<Wine>) : RecyclerView.Adap
         val (name, description, photo) = listWine[position]
         holder.bind(name, description, photo)
 
-        holder.itemView.setOnClickListener { onItemClickCallback.onItemClicked(listWine[holder.adapterPosition]) }
+        holder.itemView.setOnClickListener {
+            onItemClickCallback.onItemClicked(listWine[holder.adapterPosition])
+        }
     }
 
     override fun getItemCount(): Int = listWine.size
